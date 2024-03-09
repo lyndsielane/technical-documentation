@@ -2,6 +2,7 @@ header {
   background-color: #4f000b;
   color: white;
   text-align: center;
+  padding: 20px;
 }
 
 section {
@@ -14,8 +15,13 @@ nav ul {
   background-color: #4f000b;
   height: 100%;
   color: white;
+  margin: 0;
+  padding-inline-start: 0px;
+  padding: 10px;
+  padding-right: 20px;
 }
 
 article {
-  padding: 20px;
+  margin-top: none;
+  padding: 10px;
 }
