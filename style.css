@@ -1,0 +1,21 @@
+header {
+  background-color: #4f000b;
+  color: white;
+  text-align: center;
+}
+
+section {
+  display: flex;
+  flex: column;
+}
+
+nav ul {
+  list-style: none;
+  background-color: #4f000b;
+  height: 100%;
+  color: white;
+}
+
+article {
+  padding: 20px;
+}
